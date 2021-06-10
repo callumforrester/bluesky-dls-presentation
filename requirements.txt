@@ -1,9 +1,12 @@
 bluesky>=1.6.7
 ophyd
 caproto
+databroker
 numpy 
 matplotlib
 jupyterlab==1.2.6 
 jupyterlab-server==1.0.9 
 jupyter-core==4.6.3 
-scikit-image==0.17.2
+ipympl
+h5py
+area-detector-handlers
