@@ -1,0 +1,6 @@
+{
+    "jupyter.jupyterCommandLineArguments": [
+        "--NotebookApp.port=9999",
+        "--notebook-dir=/tmp"
+    ]
+}
